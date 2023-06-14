@@ -2,9 +2,11 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Translate your site com teste video
 
 Let's translate `docs/intro.md` to French.
+
+[Assista ao vídeo](https://www.youtube.com/watch?v=gFJfyHRKaE0)
 
 ## Configure i18n
 
